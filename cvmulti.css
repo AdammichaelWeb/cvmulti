@@ -1,0 +1,21 @@
+
+			
+		h1{/**/
+		text-align:center; /*set text center*/
+		border-bottom:2px solid grey;/*affiche une bordure pleine en bas de 2 px grise*/
+		color:red;/*affiche le texte en rouge*/
+		font-family:verdana;
+		}
+		
+		ul{/*retrait à gauche de 0*/
+		padding-left:0;
+		}
+
+		h2{/**/
+		text-align:center;
+		color:orange;
+		border-style:groove;
+		margin:20px 400px;
+		background-color:blue;
+		font-style:italic;
+		}
